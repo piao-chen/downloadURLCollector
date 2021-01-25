@@ -7,6 +7,7 @@
 // @require    https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js
 // @match       http://*.mjf2020.com/*
 // @grant        GM_setClipboard
+// @updateURL https://raw.githubusercontent.com/piao-chen/downloadURLCollector/main/downloadURLCollector.js
 // @run-at      document-end
 
 // ==/UserScript==
