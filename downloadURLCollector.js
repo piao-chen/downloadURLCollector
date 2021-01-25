@@ -1,12 +1,11 @@
 // ==UserScript==
-// @name         magnet collector
+// @name         downloadURLCollector
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  collect magnet and ed2k from mjf2020.com
+// @author       piaochen
 // @require    https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js
 // @match       http://*.mjf2020.com/*
-// @match       https://*.baidu.com/*
 // @grant        GM_setClipboard
 // @run-at      document-end
 
