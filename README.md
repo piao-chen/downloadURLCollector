@@ -1,0 +1,2 @@
+# downloadURLCollector
+油猴脚本，用于提取mjf2020.com网站网页中的magnet和ed2k链接，复制到剪切板中
